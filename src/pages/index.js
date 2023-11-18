@@ -1,0 +1,9 @@
+export { default as HomePage } from './homepage/home-page';
+export { default as LoginPage } from './loginpage/login-page';
+export { default as RegisterPage } from './registerpage/register-page';
+export { default as QuanShortPage } from './quan-short-page/quan-short-page';
+export { default as PoloPage } from './polo-page/polo-page';
+export { default as AdminPage } from './adminpage/admin-page';
+export { default as ProductDetailPage } from './product-detail-page/product-detail-page';
+export { default as DatHangPage } from './dat-hang/dat-hang';
+export { default as DatHangThanhCong } from './dat-hang-thanh-cong/dat-hang-thanh-cong';

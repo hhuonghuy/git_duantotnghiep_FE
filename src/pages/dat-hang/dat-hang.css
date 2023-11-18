@@ -1,0 +1,26 @@
+.dat-hang .div {
+	width: 100%;
+	max-width: 580px;
+	height: 77px;
+	background: #23cdf2;
+}
+
+.dat-hang form button {
+	width: 100%;
+	max-width: 583px;
+	height: 77px;
+	flex-shrink: 0;
+	background: #fcd400;
+	margin-bottom: 50px;
+}
+
+@media (max-width: 1000px) {
+	.dat-hang .container {
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+}
+
+.dat-hang form {
+	padding-left: 100px;
+}
